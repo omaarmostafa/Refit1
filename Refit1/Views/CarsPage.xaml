@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="Refit1.Views.CarsPage"  Title="{Binding Title}">
+
+    <StackLayout Padding="20">
+        <Button Text="Get Cars" 
+                     Command="{Binding GetDataCommand}" BackgroundColor="Black" TextColor="White" HorizontalOptions="FillAndExpand"/>
+        <ListView x:Name="MakeUpList" ItemsSource="{Binding Cars,Mode=TwoWay}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Brand}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

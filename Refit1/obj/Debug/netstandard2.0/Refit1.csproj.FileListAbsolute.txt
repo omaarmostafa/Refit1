@@ -1,0 +1,15 @@
+D:\Work\Refit1\Refit1\Refit1\bin\Debug\netstandard2.0\Refit1.deps.json
+D:\Work\Refit1\Refit1\Refit1\bin\Debug\netstandard2.0\Refit1.dll
+D:\Work\Refit1\Refit1\Refit1\bin\Debug\netstandard2.0\Refit1.pdb
+D:\Work\Refit1\Refit1\Refit1\obj\Debug\netstandard2.0\Refit1.csproj.CoreCompileInputs.cache
+D:\Work\Refit1\Refit1\Refit1\obj\Debug\netstandard2.0\Refit1.App.xaml.g.cs
+D:\Work\Refit1\Refit1\Refit1\obj\Debug\netstandard2.0\Refit1.Views.CarDetailPage.xaml.g.cs
+D:\Work\Refit1\Refit1\Refit1\obj\Debug\netstandard2.0\Refit1.Views.CarsPage.xaml.g.cs
+D:\Work\Refit1\Refit1\Refit1\obj\Debug\netstandard2.0\Refit1.Views.Login.xaml.g.cs
+D:\Work\Refit1\Refit1\Refit1\obj\Debug\netstandard2.0\Refit1.Views.MainPage.xaml.g.cs
+D:\Work\Refit1\Refit1\Refit1\obj\Debug\netstandard2.0\Refit1.Views.TestLongPress.xaml.g.cs
+D:\Work\Refit1\Refit1\Refit1\obj\Debug\netstandard2.0\Refit1.AssemblyInfoInputs.cache
+D:\Work\Refit1\Refit1\Refit1\obj\Debug\netstandard2.0\Refit1.AssemblyInfo.cs
+D:\Work\Refit1\Refit1\Refit1\obj\Debug\netstandard2.0\Refit1.dll
+D:\Work\Refit1\Refit1\Refit1\obj\Debug\netstandard2.0\Refit1.pdb
+D:\Work\Refit1\Refit1\Refit1\obj\Debug\netstandard2.0\Refit1.csprojResolveAssemblyReference.cache
